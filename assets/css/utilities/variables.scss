@@ -1,0 +1,136 @@
+// !!!!!!! README !!!!!!!
+// ===============================
+// Welcome to SCSS Variables 
+// Table of content:
+// 1. Colors
+// 2. Typography
+// ==============================
+// Designed by Rifqi Naufal F
+// https://dribbble.com/rifqinfl_
+// ================================
+
+
+// 1. Colors
+$color-primary: #2584EA;
+$color-background: #F7F8FC;
+$color-text: #49494F;
+$color-white: #FFFFFF;
+
+$color-info-background:#E3F2FD;
+$color-info-text:#2196F3;
+
+$color-success-background: #E8F5E9;
+$color-success-text:#4CAF50;
+
+$color-pending-background: #FFF3E0;
+$color-pending-text: #FF9800;
+
+$color-error-background: #FFEBEE;
+$color-error-text: #F44336;
+
+// Opacity 60%
+.opacity-60 {
+    opacity: 0.6;
+}
+
+// 2. Typography
+$font-regular: 400;
+$font-medium: 500;
+$font-bold: 700;
+
+// Headline Bold
+h1 {
+    margin: 0;
+    font-size: 48px;
+    font-weight: $font-bold;
+}
+// Title Bold
+h3 {
+    margin: 0;
+    font-size: 26px;
+    font-weight: $font-bold;
+}
+
+h4 {
+    margin: 0;
+    font-size: 22px;
+    font-weight: $font-medium;
+}
+
+// Subtitle
+h5 {
+    margin: 0;
+    font-size: 18px;
+    font-weight: $font-medium;
+}
+
+// Body
+p {
+    margin: 0;
+    font-size: 16px;
+    font-weight: $font-regular;
+}
+
+.body-medium {
+    margin: 0;
+    font-size: 16px;
+    font-weight: $font-medium;
+}
+
+.body-bold {
+    margin: 0;
+    font-size: 16px;
+    font-weight: $font-bold;
+}
+
+.body-small {
+    margin: 0;
+    font-size: 14px;
+    font-weight: $font-regular;
+}
+
+.body-small-medium {
+    margin: 0;
+    font-size: 14px;
+    font-weight: $font-medium;
+}
+
+.body-small-bold {
+    margin: 0;
+    font-size: 14px;
+    font-weight: $font-bold;
+}
+
+a {
+    margin: 0;
+    font-weight: $font-medium;
+}
+
+// Button
+.button {
+    margin: 0;
+    font-size: 16px;
+    font-weight: $font-medium;
+    letter-spacing: 1.25px;
+    text-transform: uppercase;
+}
+
+.button-text {
+    margin: 0;
+    font-size: 16px;
+    font-weight: $font-medium;
+}
+
+.caption {
+    margin: 0;
+    font-size: 12px;
+    font-weight: $font-regular;
+}
+
+.overline {
+    margin: 0;
+    font-size: 12px;
+    font-weight: $font-regular;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+}

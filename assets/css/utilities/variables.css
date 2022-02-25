@@ -1,0 +1,97 @@
+.opacity-60 {
+  opacity: 0.6;
+}
+
+h1 {
+  margin: 0;
+  font-size: 48px;
+  font-weight: 700;
+}
+
+h3 {
+  margin: 0;
+  font-size: 26px;
+  font-weight: 700;
+}
+
+h4 {
+  margin: 0;
+  font-size: 22px;
+  font-weight: 500;
+}
+
+h5 {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+p {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.body-medium {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.body-bold {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.body-small {
+  margin: 0;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.body-small-medium {
+  margin: 0;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.body-small-bold {
+  margin: 0;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+a {
+  margin: 0;
+  font-weight: 500;
+}
+
+.button {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 1.25px;
+  text-transform: uppercase;
+}
+
+.button-text {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.caption {
+  margin: 0;
+  font-size: 12px;
+  font-weight: 400;
+}
+
+.overline {
+  margin: 0;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+}
+/*# sourceMappingURL=variables.css.map */
